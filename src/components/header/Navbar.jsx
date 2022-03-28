@@ -5,7 +5,7 @@ import Menu from './Menu'
 
 function Navbar() {
     return (
-        <div className='py-3 px-4 flex items-center justify-between bg-yellow-400'>
+        <div className='py-3 px-4 flex items-center justify-between bg-yellow-300'>
             <Logo />
             <Menu />
             <div className='flex'>

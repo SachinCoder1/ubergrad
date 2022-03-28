@@ -1,7 +1,6 @@
 import React from 'react'
 import { BsChevronDown } from 'react-icons/bs';
-
-const MenuData = ["Countries", "Universities", "Courses", "Exams", "Events"]
+import { MenuData } from '../../data/Data';
 
 function Menu() {
 
